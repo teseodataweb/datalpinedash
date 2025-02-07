@@ -1,0 +1,48 @@
+/* Asegúrate de que el iframe tenga un margen superior e inferior más grande */
+iframe.table-iframe {
+    width: 100%;
+    height: auto;  /* Permite que el iframe ajuste su altura */
+    border: 0;
+}
+
+/* Estilos para la tabla dentro del iframe */
+table.dataframe {
+    caption-side: bottom;
+    border-collapse: collapse;
+    margin: 10px auto; /* Ajusta según sea necesario */
+    width: 100%; /* Ajusta según sea necesario */
+    height: auto; /* Permite que la altura de la tabla se ajuste automáticamente */
+}
+caption {
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    color: var(--bs-secondary-color);
+    text-align: right;
+}
+
+thead, tbody, tfoot, tr, td, th {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+td, th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.dataframe th {
+    background-color: #f2f2f2;
+    color: black;
+}
+
+.dataframe tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.dataframe tr:hover {
+    background-color: #ddd;
+}

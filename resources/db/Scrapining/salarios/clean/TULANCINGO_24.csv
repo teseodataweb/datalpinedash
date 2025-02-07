@@ -1,0 +1,329 @@
+Occupation,Workforce,Monthly Wage,lastPeriod,diferencia,diferencia_2,Salario_Variables,volumen,pareja,categoria_persona,categoria_pareja
+Presidentes y Autoridades Municipales,87,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Presidentes y Directores Generales en Instituciones Públicas,119,30088.24,36057.69,-5969.45,1.2,36057.69,4290865.11,61298.07,C1,S
+Presidentes y Directores Generales en Instituciones y Empresas Privadas,155,4913.55,3465.9,1447.65,0.71,4913.55,761600.25,8353.04,G,F1
+Directores de Organizaciones Sindicales,75,8000.0,0.0,8000.0,0.0,8000.0,600000.0,13600.0,F1,E
+Directores de Organizaciones Civiles y Religiosas,61,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Directores y Gerentes en Administración, Recursos Humanos y Mercadotecnia",629,26992.05,15463.19,11528.86,0.57,26992.05,16977999.45,45886.48,D1,B1
+"Directores y Gerentes en Servicios Contables, Financieros, Banca y Seguros",183,5344.26,16852.17,-11507.91,3.15,16852.17,3083947.11,28648.69,E1,D1
+"Directores y Gerentes en Servicios de Salud, Protección Civil y Medio Ambiente",686,12956.27,5298.7,7657.57,0.41,12956.27,8888001.22,22025.66,E,D
+Directores y Gerentes en Desarrollo Social y Económico,68,32000.0,0.0,32000.0,0.0,32000.0,2176000.0,54400.0,C,A
+Directores y Gerentes en Centros de Enseñanza y Capacitación,1950,8625.13,16517.8,-7892.67,1.92,16517.8,32209710.0,28080.26,E1,D1
+"Jueces de Juzgado, Directores y Gerentes en Servicios Legales y Procuración de Justicia",649,19106.32,10857.14,8249.18,0.57,19106.32,12400001.68,32480.74,E1,C
+"Directores y Gerentes en Producción Agropecuaria, Silvícola y Pesquera",366,8000.0,0.0,8000.0,0.0,8000.0,2928000.0,13600.0,F1,E
+Directores y Gerentes en Producción Manufacturera,1276,5286.68,1186.47,4100.21,0.22,5286.68,6745803.680000001,8987.36,F,F1
+"Directores y Gerentes en Construcción, Reparación y Mantenimiento",1713,8556.22,15190.44,-6634.22,1.78,15190.44,26021223.720000003,25823.75,E,D1
+Directores y Gerentes en Comunicación y Telecomunicaciones,1202,12396.67,0.0,12396.67,0.0,12396.67,14900797.34,21074.34,E,D
+Directores y Gerentes en Servicios de Transporte,556,8956.83,0.0,8956.83,0.0,8956.83,4979997.4799999995,15226.61,F1,E
+Directores y Gerentes en Centros de Investigación y Desarrollo Tecnológico,600,10750.0,15000.0,-4250.0,1.4,15000.0,9000000.0,25500.0,E,D1
+"Directores y Gerentes de Ventas, Comercialización y Alquiler",2601,7970.09,8405.9,-435.81,1.05,8405.9,21863745.9,14290.03,F1,E
+Directores y Gerentes de Restaurantes y Hoteles,2141,4613.36,9215.19,-4601.83,2.0,9215.19,19729721.790000003,15665.82,F1,E
+"Directores y Gerentes de Museos, Cines y otros Establecimientos Deportivos y Culturales",175,17314.29,5809.92,11504.37,0.34,17314.29,3030000.75,29434.29,E1,D1
+Directores y Gerentes en Servicios Funerarios y otros Servicios,1360,10750.0,8792.7,1957.3,0.82,10750.0,14620000.0,18275.0,F1,E1
+"Coordinadores y Jefes de Área en Administración, Recursos Humanos y Mercadotecnia",2392,8097.99,7942.0,155.99,0.98,8097.99,19370392.08,13766.58,F1,E
+"Coordinadores y Jefes de Área en Servicios Contables, Financieros, Banca y Seguros",145,10317.24,11111.11,-793.87,1.08,11111.11,1611110.9500000002,18888.89,F1,E1
+"Coordinadores y Jefes de Área en Servicios de Salud, Protección Civil y Medio Ambiente",126,12222.22,15102.56,-2880.34,1.24,15102.56,1902922.5599999998,25674.35,E,D1
+Coordinadores y Jefes de Área en Desarrollo Social y Económico,70,24000.0,14000.0,10000.0,0.58,24000.0,1680000.0,40800.0,D,B
+Coordinadores y Jefes de Área en Centros de Enseñanza y Capacitación,380,14820.0,10985.51,3834.49,0.74,14820.0,5631600.0,25194.0,E,D1
+"Coordinadores y Jefes de Área en Servicios Legales, Jueces Calificadores y Fiscales",606,10353.47,15192.82,-4839.35,1.47,15192.82,9206848.92,25827.79,E,D1
+Coordinadores y Jefes de Área en Servicios de Vigilancia y Seguridad,1475,9901.02,1316.96,8584.06,0.13,9901.02,14604004.5,16831.73,F1,E1
+"Coordinadores y Jefes de Área en Producción Agropecuaria, Silvícola y Pesquera",62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Coordinadores y Jefes de Área en Producción Manufacturera,359,24392.76,9764.15,14628.61,0.4,24392.76,8757000.84,41467.69,D,B
+"Coordinadores y Jefes de Área en Construcción, Reparación y Mantenimiento",780,19346.15,11441.05,7905.1,0.59,19346.15,15089997.000000002,32888.46,E1,C
+Coordinadores y Jefes de Área en Informática,181,16685.08,10613.72,6071.36,0.64,16685.08,3019999.4800000004,28364.64,E1,D1
+Coordinadores y Jefes de Área en Comunicación y Telecomunicaciones,129,8356.59,7400.0,956.59,0.89,8356.59,1078000.11,14206.2,F1,E
+Coordinadores y Jefes de Área en Servicios de Transporte,521,0.0,10271.45,-10271.45,0.0,10271.45,5351425.45,17461.46,F1,E1
+"Coordinadores y Jefes de Área de Ventas, Comercialización y Alquiler",916,14664.48,24790.62,-10126.14,1.69,24790.62,22708207.919999998,42144.05,D,B
+Coordinadores y Jefes de Área de Restaurantes y Hoteles,765,30971.24,0.0,30971.24,0.0,30971.24,23692998.6,52651.11,C,A
+"Coordinadores y Jefes de Área en Actividades Artísticas, de Cine, Teatro y Afines",70,6600.0,11500.0,-4900.0,1.74,11500.0,805000.0,19550.0,F1,E1
+"Coordinadores y Jefes de Área en Museos, Cines, Deportivos y Servicios Culturales",148,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Coordinadores y Jefes de Área en Servicios Funerarios y otros Servicios,196,4316.33,13000.0,-8683.67,3.01,13000.0,2548000.0,22100.0,E,D
+Administradores y Especialistas en Recursos Humanos y Sistemas de Gestión,2292,1257.42,12476.7,-11219.28,9.92,12476.7,28596596.400000002,21210.39,E,D
+"Especialistas y Consultores en Mercadotecnia, Publicidad, Comunicación y Comercio Exterior",2906,5279.77,6449.81,-1170.04,1.22,6449.81,18743147.86,10964.68,F,F1
+Especialistas en Hotelería y Turismo,34,10000.0,17000.0,-7000.0,1.7,17000.0,578000.0,28900.0,E1,D1
+Contadores y Auditores,6398,3632.09,6470.35,-2838.26,1.78,6470.35,41397299.300000004,10999.6,F,F1
+Asesores y Analistas en Finanzas,927,22953.61,14614.74,8338.87,0.64,22953.61,21277996.47,39021.14,D,C1
+"Antropólogos, Arqueólogos e Historiadores",92,16000.0,0.0,16000.0,0.0,16000.0,1472000.0,27200.0,E1,D1
+Investigadores y Especialistas en Ciencias Políticas y Administración Pública,119,2924.37,17632.92,-14708.55,6.03,17632.92,2098317.48,29975.96,E1,D1
+Abogados,7099,7749.47,9169.96,-1420.49,1.18,9169.96,65097546.03999999,15588.93,F1,E
+Psicólogos,3443,5197.79,6282.83,-1085.04,1.21,6282.83,21631783.69,10680.81,F,F1
+Especialistas en Trabajo Social,542,8821.03,7892.98,928.05,0.89,8821.03,4780998.260000001,14995.75,F1,E
+"Sacerdotes, Pastores y otros Teólogos",126,1774.6,777.46,997.14,0.44,1774.6,223599.59999999998,3016.82,G,G
+Escritores y Críticos Literarios,41,12000.0,0.0,12000.0,0.0,12000.0,492000.0,20400.0,E,D
+Periodistas y Redactores,155,13935.48,483.79,13451.69,0.03,13935.48,2159999.4,23690.32,E,D
+Traductores e Intérpretes,90,0.0,8600.0,-8600.0,0.0,8600.0,774000.0,14620.0,F1,E
+"Dibujantes y Diseñadores Artísticos, Ilustradores y Grabadores",857,3331.62,4364.93,-1033.31,1.31,4364.93,3740745.0100000002,7420.38,G,F
+Músicos,1808,3274.28,13698.34,-10424.06,4.18,13698.34,24766598.72,23287.18,E,D
+Biólogos y Especialistas en Ciencias del Mar y Oceanógrafos,58,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Químicos,1222,5641.57,11383.33,-5741.76,2.02,11383.33,13910429.26,19351.66,F1,E1
+Ecólogos y Especialistas en Ciencias Atmosféricas,417,7911.27,16000.0,-8088.73,2.02,16000.0,6672000.0,27200.0,E1,D1
+Agrónomos,660,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Veterinarios y Zootecnistas,4070,1064.96,16446.08,-15381.12,15.44,16446.08,66935545.60000001,27958.34,E1,D1
+Ingenieros Eléctricos,1537,13481.91,14028.33,-546.42,1.04,14028.33,21561543.21,23848.16,E,D
+Ingenieros Electrónicos,1167,7912.89,13550.77,-5637.88,1.71,13550.77,15813748.59,23036.31,E,D
+Ingenieros Químicos,113,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Ingenieros Mecánicos,1782,17625.36,8461.54,9163.82,0.48,17625.36,31408391.52,29963.11,E1,D1
+Ingenieros Industriales,1143,3618.55,4633.97,-1015.42,1.28,4633.97,5296627.71,7877.75,G,F
+Ingenieros Civiles y de la Construcción,2205,1460.68,5795.29,-4334.61,3.97,5795.29,12778614.45,9851.99,F,F1
+"Ingenieros en Topografía, Hidrología, Geología y Geodesia",216,4583.33,28000.0,-23416.67,6.11,28000.0,6048000.0,47600.0,D1,B1
+"Arquitectos, Planificadores Urbanos y del Transporte",1451,7529.67,5728.63,1801.04,0.76,7529.67,10925551.17,12800.44,F,E
+Desarrolladores y Analistas de Software y Multimedia,6799,13030.15,8462.99,4567.16,0.65,13030.15,88591989.85,22151.25,E,D
+Administradores de Bases de Datos y Redes de Computadora,34,0.0,16153.35,-16153.35,0.0,16153.35,549213.9,27460.7,E1,D1
+Ingenieros en Comunicaciones y Telecomunicaciones,150,24120.0,4106.67,20013.33,0.17,24120.0,3618000.0,41004.0,D,B
+Supervisores e Inspectores Educativos,2332,6634.65,19794.78,-13160.13,2.98,19794.78,46161426.96,33651.13,E1,C
+"Pedagogos, Orientadores Educativos y otros Especialistas en Ciencias Educativas",358,13128.49,10218.45,2910.04,0.78,13128.49,4699999.42,22318.43,E,D
+Profesores Universitarios y de Enseñanza Superior,2090,11637.2,11277.87,359.33,0.97,11637.2,24321748.0,19783.24,F1,E1
+Profesores de Preparatoria y Equivalentes,5788,8615.92,6788.07,1827.85,0.79,8615.92,49868944.96,14647.06,F1,E
+Profesores de Enseñanza Secundaria,10840,7744.02,8151.61,-407.59,1.05,8151.61,88363452.39999999,13857.74,F1,E
+Profesores de Enseñanza Primaria,20001,6036.02,9088.33,-3052.31,1.51,9088.33,181775688.33,15450.16,F1,E
+Profesores de Enseñanza Bilingüe (Indígena),249,13600.0,0.0,13600.0,0.0,13600.0,3386400.0,23120.0,E,D
+Profesores de Enseñanza Preescolar,3057,7779.72,4622.65,3157.07,0.59,7779.72,23782604.04,13225.52,F,E
+Médicos Generales y Familiares,8164,15722.28,19200.9,-3478.62,1.22,19200.9,156756147.60000002,32641.53,E1,C
+Médicos Especialistas,4377,9241.94,3407.4,5834.54,0.37,9241.94,40451971.38,15711.3,F1,E
+Especialistas en Medicina Tradicional y Alternativa,78,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Enfermeras Especialistas,336,7961.31,21707.2,-13745.89,2.73,21707.2,7293619.2,36902.24,D,C1
+Farmacólogos,145,16240.0,30000.0,-13760.0,1.85,30000.0,4350000.0,51000.0,C,A
+"Auxiliares en Administración, Mercadotecnia, Comercialización y Comercio Exterior",8171,6961.68,7707.98,-746.3,1.11,7707.98,62981904.58,13103.57,F,E
+"Auxiliares en Contabilidad, Economía, Finanzas y Agentes de Bolsa",6502,6119.74,5625.9,493.84,0.92,6119.74,39790549.48,10403.56,F,F1
+Oficiales del Ministerio Público y Detectives,361,9660.39,15130.73,-5470.34,1.57,15130.73,5462193.53,25722.24,E,D1
+Agentes Aduanales y Fronterizos,85,20000.0,0.0,20000.0,0.0,20000.0,1700000.0,34000.0,D,C
+Agentes de Recaudación Tributaria y de Licencias,88,14000.0,15000.0,-1000.0,1.07,15000.0,1320000.0,25500.0,E,D1
+Auxiliares en Ciencias Sociales y Humanistas,4159,6057.99,6355.03,-297.04,1.05,6355.03,26430569.77,10803.55,F,F1
+Auxiliares en Servicios Jurídicos,1174,1504.28,3604.67,-2100.39,2.4,3604.67,4231882.58,6127.94,G,F
+Monjas y Predicadores,249,1720.0,0.0,1720.0,0.0,1720.0,428280.0,2924.0,G,G
+Diseñadores Industriales,1523,10586.97,0.0,10586.97,0.0,10586.97,16123955.309999999,17997.85,F1,E1
+Diseñadores Gráficos,391,6308.7,12179.36,-5870.66,1.93,12179.36,4762129.76,20704.91,E,D
+"Decoradores de Interiores, Jardines y Diversos Materiales (Tazas, Llaveros, Etcétera)",366,21500.0,1056.14,20443.86,0.05,21500.0,7869000.0,36550.0,D,C1
+"Payasos, Mimos y Cirqueros",49,8600.0,19350.0,-10750.0,2.25,19350.0,948150.0,32895.0,E1,C
+"Auxiliares y Técnicos en Ciencias Biológicas, Químicas y del Medio Ambiente",57,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Auxiliares y Técnicos en Veterinaria, Pesca y Forestación",1553,3825.79,0.0,3825.79,0.0,3825.79,5941451.87,6503.84,G,F
+Auxiliares y Técnicos Industriales y Químicos,1560,6466.54,0.0,6466.54,0.0,6466.54,10087802.4,10993.12,F,F1
+"Auxiliares y Técnicos Topógrafos, en Hidrología y Geología",298,12073.49,0.0,12073.49,0.0,12073.49,3597900.02,20524.93,E,D
+"Auxiliares y Técnicos Mineros, Metalúrgicos y Petroleros",710,16000.0,0.0,16000.0,0.0,16000.0,11360000.0,27200.0,E1,D1
+Auxiliares y Técnicos en Construcción y Arquitectura,684,2649.12,9687.96,-7038.84,3.66,9687.96,6626564.64,16469.53,F1,E1
+Dibujantes Técnicos,628,8600.0,0.0,8600.0,0.0,8600.0,5400800.0,14620.0,F1,E
+"Supervisores de Mecánicos y Técnicos en Mantenimiento y Reparación de Equipos Mecánicos, Vehículos de Motor, Instrumentos Industriales y Equipo de Refrigeración",1318,1234.54,10385.41,-9150.87,8.41,10385.41,13687970.379999999,17655.2,F1,E1
+Técnicos en Mantenimiento y Reparación de Vehículos de Motor,1038,9248.73,10750.0,-1501.27,1.16,10750.0,11158500.0,18275.0,F1,E1
+Mecánicos en Mantenimiento y Reparación de Vehículos de Motor,13976,9417.53,8507.93,909.6,0.9,9417.53,131619399.28000002,16009.8,F1,E1
+Técnicos en Mantenimiento y Reparación de Maquinaria e Instrumentos Industriales,1587,6895.8,9096.67,-2200.87,1.32,9096.67,14436415.290000001,15464.34,F1,E
+Mecánicos en Mantenimiento y Reparación de Maquinaria e Instrumentos Industriales,8666,6860.25,17140.18,-10279.93,2.5,17140.18,148536799.88,29138.31,E1,D1
+Mecánicos en Mantenimiento y Reparación de Instrumentos de Precisión y Musicales,671,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Técnicos en la Instalación, Reparación y Mantenimiento de Equipos de Refrigeración, Climas y Aire Acondicionado",97,0.0,25000.0,-25000.0,0.0,25000.0,2425000.0,42500.0,D1,B
+"Supervisores de Técnicos Eléctricos, en Electrónica y de Equipos en Telecomunicaciones y Electromecánicos",810,20750.62,17020.31,3730.31,0.82,20750.62,16808002.2,35276.05,D,C1
+Técnicos Eléctricos,1343,5063.29,6764.63,-1701.34,1.34,6764.63,9084898.09,11499.87,F,F1
+Electricistas y Linieros,7907,6484.25,3092.34,3391.91,0.48,6484.25,51270964.75,11023.22,F,F1
+"Técnicos en Instalación y Reparación de Equipos Electrónicos, Telecomunicaciones y Electrodoméstico (Excepto Equipos Informáticos)",1139,4126.34,2008.4,2117.94,0.49,4126.34,4699901.26,7014.78,G,F
+"Trabajadores en Instalación y Reparación de Equipos Electrónicos, Telecomunicaciones y Electrodoméstico (Excepto Equipos Informáticos)",594,6652.42,18631.27,-11978.85,2.8,18631.27,11066974.38,31673.16,E1,C
+Trabajadores en Reparación de Equipos Electromecánicos,762,2488.19,8406.5,-5918.31,3.38,8406.5,6405753.0,14291.05,F1,E
+"Técnicos en la Instalación y Reparación de Redes, Equipos y en Sistemas Computacionales",1105,2767.05,2786.08,-19.03,1.01,2786.08,3078618.4,4736.34,G,G
+Técnicos en Operaciones de Equipos de Radio,70,13300.0,0.0,13300.0,0.0,13300.0,931000.0,22610.0,E,D
+Auxiliares y Técnicos de Equipos de Grabación y Reproducción de Video,145,16000.0,4248.41,11751.59,0.27,16000.0,2320000.0,27200.0,E1,D1
+"Auxiliares y Técnicos de Ingeniería de Audio, Sonido e Iluminación",2114,4595.96,11749.92,-7153.96,2.56,11749.92,24839330.88,19974.86,F1,E1
+Auxiliares y Técnicos en Pedagogía y en Educación,996,2993.69,762.46,2231.23,0.25,2993.69,2981715.24,5089.27,G,F
+Instructores en Estudios y Capacitación Artística,1482,9570.65,4265.72,5304.93,0.45,9570.65,14183703.299999999,16270.1,F1,E1
+Instructores en Idiomas Extranjeros,80,4300.0,10396.44,-6096.44,2.42,10396.44,831715.2000000001,17673.95,F1,E1
+Instructores y Capacitadores en Oficios y para el Trabajo,3352,4247.19,3149.07,1098.12,0.74,4247.19,14236580.879999999,7220.22,G,F
+Profesores en Educación Física y Deporte,677,3856.03,14007.67,-10151.64,3.63,14007.67,9483192.59,23813.04,E,D
+Enfermeras (Técnicas),2615,5087.88,7668.45,-2580.57,1.51,7668.45,20052996.75,13036.36,F,E
+"Técnicos en Aparatos de Diagnóstico, Tratamiento Médico, Podólogos y Fisioterapeutas",1680,4657.56,7592.35,-2934.79,1.63,7592.35,12755148.0,12907.0,F,E
+Técnicos de Laboratorios Médicos,1336,8241.92,12062.43,-3820.51,1.46,12062.43,16115406.48,20506.13,E,D
+Técnicos y Asistentes Farmacéuticos,74,8000.0,0.0,8000.0,0.0,8000.0,592000.0,13600.0,F1,E
+Técnicos de Prótesis Médicas y Dentales,802,1655.86,21397.18,-19741.32,12.92,21397.18,17160538.36,36375.21,D,C1
+Auxiliares en Enfermería y Paramédicos,7811,3974.04,13539.93,-9565.89,3.41,13539.93,105760393.23,23017.88,E,D
+Auxiliares y Asistentes Dentales,231,72.73,4548.25,-4475.52,62.54,4548.25,1050645.75,7732.02,G,F
+Auxiliares Hospitalarios y de Medicina,968,2696.28,23406.85,-20710.57,8.68,23406.85,22657830.799999997,39791.64,D,C1
+Técnicos en Seguridad en el Trabajo e Higiene,460,10872.28,8000.0,2872.28,0.74,10872.28,5001248.800000001,18482.88,F1,E1
+"Curanderos, Hierberos y Hueseros",1157,4283.04,7128.47,-2845.43,1.66,7128.47,8247639.79,12118.4,F,E
+Otros Especialistas no Clasificados Anteriormente,169,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Otros Técnicos no Clasificados Anteriormente,73,600.0,0.0,600.0,0.0,600.0,43800.0,1020.0,G,G
+"Supervisores de Secretarias, Capturistas, Cajeros y Trabajadores de Control de Archivo y Transporte",1630,13985.16,10953.98,3031.18,0.78,13985.16,22795810.8,23774.77,E,D
+Secretarias,3637,8343.55,7054.18,1289.37,0.85,8343.55,30345491.349999998,14184.03,F1,E
+Capturistas de Datos,1554,4455.39,5216.07,-760.68,1.17,5216.07,8105772.779999999,8867.32,F,F1
+Trabajadores de Apoyo en Actividades Administrativas Diversas,19612,4939.39,5627.25,-687.86,1.14,5627.25,110361627.0,9566.32,F,F1
+"Cajeros, Taquilleros y Receptores de Apuestas",7959,5548.84,5690.51,-141.67,1.03,5690.51,45290769.09,9673.87,F,F1
+"Cobradores, Pagadores y Prestamistas",5000,5092.24,5389.87,-297.63,1.06,5389.87,26949350.0,9162.78,F,F1
+Trabajadores en Archivo y Correspondencia,2659,4315.34,10647.14,-6331.8,2.47,10647.14,28310745.259999998,18100.14,F1,E1
+Encargados y Trabajadores en Control de Almacén y Bodega,9649,6637.13,5219.76,1417.37,0.79,6637.13,64041667.370000005,11283.12,F,F1
+Checadores y Revisores de Transporte,215,5302.33,4631.4,670.93,0.87,5302.33,1140000.95,9013.96,F,F1
+Supervisores de Trabajadores que Brindan y Manejan Información,1061,12139.8,0.0,12139.8,0.0,12139.8,12880327.799999999,20637.66,E,D
+Recepcionistas y Trabajadores que Brindan Información (De Forma Personal),7069,5140.38,4502.95,637.43,0.88,5140.38,36337346.22,8738.65,F,F1
+Trabajadores que Brindan Información por Teléfono (Centro de Llamadas) y Anunciadores,1572,3791.63,10096.97,-6305.34,2.66,10096.97,15872436.84,17164.85,F1,E1
+Telefonistas y Telegrafistas,160,6240.0,8066.74,-1826.74,1.29,8066.74,1290678.4,13713.46,F1,E
+Trabajadores en Agencias de Viajes,60,0.0,9233.77,-9233.77,0.0,9233.77,554026.2000000001,15697.41,F1,E
+"Guías de Turismo en Museos, Casinos, Parques, Cines y otros Centros Recreativos",146,0.0,3333.04,-3333.04,0.0,3333.04,486623.83999999997,5666.17,G,F
+Encuestadores,882,13528.12,1096.58,12431.54,0.08,13528.12,11931801.84,22997.8,E,D
+Comerciantes en Establecimientos,68975,4943.3,4370.26,573.04,0.88,4943.3,340964117.5,8403.61,G,F1
+Encargados y Supervisores de Ventas de Productos y de Servicios Financieros y de Alquiler,3781,7771.06,4560.37,3210.69,0.59,7771.06,29382377.860000003,13210.8,F,E
+"Empleados de Ventas, Despachadores y Dependientes en Comercios",97188,2900.67,3955.11,-1054.44,1.36,3955.11,384389230.68,6723.69,G,F
+"Anaqueleros, Acomodadores y Seleccionadores de Mercancías y Alimentadores de Máquinas Expendedoras",966,4244.06,2933.1,1310.96,0.69,4244.06,4099761.9600000004,7214.9,G,F
+Vendedores por Teléfono,142,3936.62,10810.34,-6873.72,2.75,10810.34,1535068.28,18377.58,F1,E1
+Choferes Vendedores,7300,7671.44,3617.52,4053.92,0.47,7671.44,56001512.0,13041.45,F,E
+Agentes y Representantes de Ventas y Consignatarios,6069,11386.53,7068.33,4318.2,0.62,11386.53,69104850.57000001,19357.1,F1,E1
+Agentes de Seguros y Servicios Financieros (Ejecutivos de Cuenta),2124,6724.39,10253.56,-3529.17,1.52,10253.56,21778561.439999998,17431.05,F1,E1
+Agentes de Bienes Raíces,941,7068.01,8806.08,-1738.07,1.25,8806.08,8286521.28,14970.34,F1,E
+Vendedores por Catálogo,9226,1651.7,2515.73,-864.03,1.52,2515.73,23210124.98,4276.74,G,G
+Demostradores y Promotores,1892,7497.67,3846.74,3650.93,0.51,7497.67,14185591.64,12746.04,F,E
+Edecanes,41,14190.0,0.0,14190.0,0.0,14190.0,581790.0,24123.0,E,D
+"Trabajadores en el Alquiler de Bienes Muebles (Loza, Películas, Video Juegos, Etcétera)",2620,6859.98,6646.17,213.81,0.97,6859.98,17973147.599999998,11661.97,F,F1
+"Supervisores en la Preparación y Servicio de Alimentos y Bebidas, Así como en Servicios de Esparcimiento y de Hotelería",1640,5875.66,9163.71,-3288.05,1.56,9163.71,15028484.399999999,15578.31,F1,E
+Cocineros,10647,5763.5,4925.51,837.99,0.85,5763.5,61363984.5,9797.95,F,F1
+"Fonderos, Vendedores y Comerciantes de Comida",15056,6841.91,7353.01,-511.1,1.07,7353.01,110706918.56,12500.12,F,E
+Cocineros Domésticos,162,4837.5,5030.11,-192.61,1.04,5030.11,814877.82,8551.19,F,F1
+"Taqueros y Preparadores de Comida Rápida, Antojitos, Pizzas, Hot Dogs, Jugos, Café, Etcétera",35072,4605.2,5511.58,-906.38,1.2,5511.58,193302133.76,9369.69,F,F1
+Cantineros,1462,7496.32,3804.36,3691.96,0.51,7496.32,10959619.84,12743.74,F,E
+Meseros,10655,2717.21,4284.24,-1567.03,1.58,4284.24,45648577.199999996,7283.21,G,F
+Supervisores y Encargados de Trabajadores en Cuidados Personales y del Hogar,805,347.2,0.0,347.2,0.0,347.2,279496.0,590.24,G,G
+"Peluqueros, Barberos, Estilistas y Peinadores",6871,4427.86,5432.9,-1005.04,1.23,5432.9,37329455.9,9235.93,F,F1
+"Maquillistas, Manicuristas, Pedicuristas y Tatuadores",6166,4291.28,5249.09,-957.81,1.22,5249.09,32365888.94,8923.45,F,F1
+"Cuidadores de Niños, Personas con Discapacidad y Ancianos en Establecimientos",133,0.0,1335.89,-1335.89,0.0,1335.89,177673.37000000002,2271.01,G,G
+"Cuidadores de Niños, Personas con Discapacidad y Ancianos en Casas Particulares",3724,4895.9,4744.33,151.57,0.97,4895.9,18232331.599999998,8323.03,G,F1
+Azafatas y Sobrecargos,327,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Jardineros en Establecimientos,675,1952.59,8600.0,-6647.41,4.4,8600.0,5805000.0,14620.0,F1,E
+Jardineros en Casas Particulares,1125,4166.56,6638.22,-2471.66,1.59,6638.22,7467997.5,11284.97,F,F1
+"Astrólogos, Adivinadores y Afines",234,22500.0,0.0,22500.0,0.0,22500.0,5265000.0,38250.0,D,C1
+Trabajadores Dedicados a la Prostitución,403,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Entrenadores de Animales y Ocupaciones Relacionadas con el Cuidado de Mascotas,1006,4371.81,1577.98,2793.83,0.36,4371.81,4398040.86,7432.08,G,F
+Supervisores en Servicios de Protección y Vigilancia,592,0.0,5600.0,-5600.0,0.0,5600.0,3315200.0,9520.0,F,F1
+Policías y Agentes de Tránsito,7577,6046.32,6954.24,-907.92,1.15,6954.24,52692276.48,11822.21,F,F1
+Vigilantes y Guardias en Establecimientos,18346,5304.9,5810.07,-505.17,1.1,5810.07,106591544.22,9877.12,F,F1
+Vigilantes y Porteros en Casas Particulares,58,12900.0,1352.08,11547.92,0.1,12900.0,748200.0,21930.0,E,D
+Supervisores de las Fuerzas Armadas,47,0.0,30000.0,-30000.0,0.0,30000.0,1410000.0,51000.0,C,A
+Trabajadores de la Fuerza Armada Aérea,52,30000.0,16000.0,14000.0,0.53,30000.0,1560000.0,51000.0,C,A
+Trabajadores de la Fuerza Armada Terrestre,382,11057.59,0.0,11057.59,0.0,11057.59,4223999.38,18797.9,F1,E1
+Trabajadores en el Cultivo de Maíz Y/O Frijol,49186,2306.88,1506.28,800.6,0.65,2306.88,113466199.68,3921.7,G,G
+Trabajadores en el Cultivo de Hortalizas y Verduras,6007,3640.53,5276.61,-1636.08,1.45,5276.61,31696596.27,8970.24,F,F1
+"Trabajadores en el Cultivo de Café, Cacao y Tabaco",477,1667.0,0.0,1667.0,0.0,1667.0,795159.0,2833.9,G,G
+Trabajadores en el Cultivo de Frutales,1761,3995.74,5412.58,-1416.84,1.35,5412.58,9531553.379999999,9201.39,F,F1
+Trabajadores en el Cultivo de Flores,604,0.0,8279.33,-8279.33,0.0,8279.33,5000715.32,14074.86,F1,E
+Trabajadores en otros Cultivos Agrícolas,10506,3348.98,2295.34,1053.64,0.69,3348.98,35184383.88,5693.27,G,F
+Trabajadores en la Cría de Ganado Bovino,10307,3987.66,3571.03,416.63,0.9,3987.66,41100811.62,6779.02,G,F
+Trabajadores en la Cría de Porcinos,3144,875.54,3061.2,-2185.66,3.5,3061.2,9624412.799999999,5204.04,G,F
+Trabajadores en la Cría Avícola,3447,11515.18,113.06,11402.12,0.01,11515.18,39692825.46,19575.81,F1,E1
+Trabajadores en la Cría de Caprinos y Ovinos,15695,1387.23,1273.6,113.63,0.92,1387.23,21772574.85,2358.29,G,G
+Trabajadores en la Apicultura,1794,1389.0,3347.7,-1958.7,2.41,3347.7,6005773.8,5691.09,G,F
+Trabajadores en Actividades de Beneficio de Productos Pecuarios,172,10000.0,0.0,10000.0,0.0,10000.0,1720000.0,17000.0,F1,E1
+Trabajadores que Combinan Actividades Agrícolas con Ganaderas,7611,327.69,1390.9,-1063.21,4.24,1390.9,10586139.9,2364.53,G,G
+"Supervisores, Encargados y Capataces de Trabajadores en Actividades Pesqueras, Acuícolas, Forestales, Caza y Similares",162,10298.77,0.0,10298.77,0.0,10298.77,1668400.74,17507.91,F1,E1
+Trabajadores en Actividades Pesqueras,314,2580.0,0.0,2580.0,0.0,2580.0,810120.0,4386.0,G,G
+Trabajadores en Viveros e Invernaderos,1420,2648.44,8703.84,-6055.4,3.29,8703.84,12359452.8,14796.53,F1,E
+Cortadores de Leña,180,3225.0,3440.0,-215.0,1.07,3440.0,619200.0,5848.0,G,F
+"Supervisores de Trabajadores en la Extracción, Albañiles y en Acabados de la Construcción",3260,11747.73,7232.44,4515.29,0.62,11747.73,38297599.8,19971.14,F1,E1
+Mineros y Trabajadores en la Extracción en Minas de Minerales Metálicos,73,6000.0,28075.03,-22075.03,4.68,28075.03,2049477.19,47727.55,D1,B1
+"Trabajadores en la Extracción de Cantera, Arcilla, Arena, Piedra y Grava",1102,0.0,8294.72,-8294.72,0.0,8294.72,9140781.44,14101.02,F1,E
+"Albañiles, Mamposteros y Afines",45334,8623.24,7408.17,1215.07,0.86,8623.24,390925962.15999997,14659.51,F1,E
+"Techadores (Colocadores de Palapas, Etcétera)",201,7000.0,5160.0,1840.0,0.74,7000.0,1407000.0,11900.0,F,F1
+"Yeseros, Escayolistas y otros Recubridores de Techos y Paredes",839,8912.63,860.0,8052.63,0.1,8912.63,7477696.569999999,15151.47,F1,E
+"Instaladores de Pisos, Azulejos, Mosaicos y Baldosas",79,8600.0,9850.86,-1250.86,1.15,9850.86,778217.9400000001,16746.46,F1,E1
+"Instaladores de Material Aislante, de Impermeabilización, Vidrio y otros Materiales",315,5510.83,5577.35,-66.52,1.01,5577.35,1756865.25,9481.5,F,F1
+"Plomeros, Fontaneros e Instaladores de Tubería",2807,10280.38,2749.37,7531.01,0.27,10280.38,28857026.659999996,17476.65,F1,E1
+Pintores de Brocha Gorda,3071,6531.88,6302.44,229.44,0.96,6531.88,20059403.48,11104.2,F,F1
+"Moldeadores, Torneros y Troqueladores",245,8600.0,7947.34,652.66,0.92,8600.0,2107000.0,14620.0,F1,E
+Soldadores y Oxicortadores,4729,7015.85,8540.71,-1524.86,1.22,8540.71,40389017.589999996,14519.21,F1,E
+"Hojalateros, Chaperos, Latoneros, Cobreros y Pintores de Metales",2206,8509.95,9716.72,-1206.77,1.14,9716.72,21435084.32,16518.42,F1,E1
+Montadores de Estructuras Metálicas,782,15050.0,0.0,15050.0,0.0,15050.0,11769100.0,25585.0,E,D1
+"Herreros, Balconeros, Aluminadores y Forjadores",7055,6850.87,7493.63,-642.76,1.09,7493.63,52867559.65,12739.17,F,E
+"Cerrajeros, Afiladores y Pulidores de Herramientas",851,8014.27,0.0,8014.27,0.0,8014.27,6820143.7700000005,13624.26,F1,E
+"Joyeros, Orfebres, Plateros y Pulidores de Metal",778,30960.0,0.0,30960.0,0.0,30960.0,24086880.0,52632.0,C,A
+"Supervisores de Artesanos y Trabajadores en la Elaboración de Productos de Madera, Papel, Textiles y de Cuero y Piel",103,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Carpinteros, Ebanistas y Cepilladores en la Elaboración de Productos de Madera",9804,5854.96,5113.69,741.27,0.87,5854.96,57402027.84,9953.43,F,F1
+Pintores y Barnizadores de Madera,1250,11643.87,1032.0,10611.87,0.09,11643.87,14554837.500000002,19794.58,F1,E1
+"Artesanos de Productos de Bejuco, Vara, Palma, Carrizo y Mimbre, Excepto Madera",3526,3468.97,5706.15,-2237.18,1.64,5706.15,20119884.9,9700.46,F,F1
+Artesanos y Trabajadores en la Elaboración de Productos de Papel y Cartón,349,2079.77,7535.54,-5455.77,3.62,7535.54,2629903.46,12810.42,F,E
+"Impresores, Linotipistas, Fotograbadores y Encuadernadores",904,7745.91,1963.43,5782.48,0.25,7745.91,7002302.64,13168.05,F,E
+Tejedores de Fibras,1338,682.65,1148.76,-466.11,1.68,1148.76,1537040.88,1952.89,G,G
+"Sastres y Modistos, Costureras y Confeccionadores de Prendas de Vestir",18436,4671.97,3641.09,1030.88,0.78,4671.97,86132438.92,7942.35,G,F
+Artesanos y Confeccionadores de Productos Textiles,1099,2292.42,4933.22,-2640.8,2.15,4933.22,5421608.78,8386.47,G,F1
+Bordadores y Deshiladores,20443,955.13,1102.18,-147.05,1.15,1102.18,22531865.740000002,1873.71,G,G
+Patronistas de Productos Textiles,3045,5160.0,7000.0,-1840.0,1.36,7000.0,21315000.0,11900.0,F,F1
+Tapiceros,205,25674.15,6694.44,18979.71,0.26,25674.15,5263200.75,43646.06,D1,B
+Zapateros Artesanales,241,301.0,0.0,301.0,0.0,301.0,72541.0,511.7,G,G
+"Supervisores de Artesanos y Trabajadores en la Elaboración de Productos de Hule, Caucho, Plásticos y de Sustancias Químicas",50,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Trabajadores en la Elaboración y Reparación de Productos de Hule, Caucho, Plásticos y Vulcanización de Neumáticos",1466,3534.92,7593.33,-4058.41,2.15,7593.33,11131821.78,12908.66,F,E
+Trabajadores en la Elaboración de Sustancias y Compuestos Químicos,569,1328.65,8391.27,-7062.62,6.32,8391.27,4774632.63,14265.16,F1,E
+"Supervisores de Trabajadores en la Elaboración y Procesamiento de Alimentos, Bebidas y Productos de Tabaco",104,9881.73,0.0,9881.73,0.0,9881.73,1027699.9199999999,16798.94,F1,E1
+"Trabajadores en la Elaboración de Productos de Carne, Pescado y sus Derivados",13304,6307.08,5535.51,771.57,0.88,6307.08,83909392.32,10722.04,F,F1
+Trabajadores en la Elaboración de Productos Lácteos,742,4155.73,12900.0,-8744.27,3.1,12900.0,9571800.0,21930.0,E,D
+"Trabajadores en la Elaboración de Pan, Tortilla, Repostería, y otros Productos de Cereales y Harinas",29117,5176.06,6073.59,-897.53,1.17,6073.59,176844720.03,10325.1,F,F1
+Trabajadores en la Elaboración de Productos a Base de Frutas y Verduras,172,0.0,6000.0,-6000.0,0.0,6000.0,1032000.0,10200.0,F,F1
+"Trabajadores en la Elaboración de Productos a Base de Azúcar, Chocolate, Confitería y Tabaco",4026,3972.17,4985.86,-1013.69,1.26,4985.86,20073072.36,8475.96,G,F1
+Trabajadores en la Elaboración de Bebidas Alcohólicas y no Alcohólicas,4011,11516.24,4187.42,7328.82,0.36,11516.24,46191638.64,19577.61,F1,E1
+Alfareros y Trabajadores Ceramistas,5475,3885.07,5232.11,-1347.04,1.35,5232.11,28645802.25,8894.59,F,F1
+"Trabajadores en la Elaboración de Productos de Cemento, Cal, Yeso, Azulejo, Piedra y Ladrilleros",641,2150.0,2385.56,-235.56,1.11,2385.56,1529143.96,4055.45,G,G
+"Otros Trabajadores Artesanales, no Clasificados Anteriormente",327,1657.49,0.0,1657.49,0.0,1657.49,541999.23,2817.73,G,G
+Supervisores de Operadores de Maquinaria Industrial,3178,15810.03,7581.2,8228.83,0.48,15810.03,50244275.34,26877.05,E,D1
+"Operadores de Máquinas y Equipos para la Captación, Bombeo y Distribución de Agua",419,1290.0,0.0,1290.0,0.0,1290.0,540510.0,2193.0,G,G
+Operadores de Equipos Portátiles Especializados para la Construcción,45,6450.0,0.0,6450.0,0.0,6450.0,290250.0,10965.0,F,F1
+"Operadores de Hornos Metalúrgicos, Coladores y Laminadores y Operadores de Máquinas Trefiladoras y Estiradoras de Metales",231,3842.08,19207.96,-15365.88,5.0,19207.96,4437038.76,32653.53,E1,C
+"Operadores de Máquinas Pulidoras, Galvanizadoras y Recubridoras de Metal",912,10974.43,0.0,10974.43,0.0,10974.43,10008680.16,18656.53,F1,E1
+"Operadores de Máquinas que Cortan, Perforan, Doblan, Troquelan, Sueldan, Etc., Piezas y Productos Metálicos",3630,8853.32,6904.04,1949.28,0.78,8853.32,32137551.599999998,15050.64,F1,E
+Operadores de Máquinas para la Elaboración de Productos Químicos,595,0.0,7000.0,-7000.0,0.0,7000.0,4165000.0,11900.0,F,F1
+Operadores de Máquinas para la Elaboración de Productos Farmacéuticos y Cosméticos,592,10750.0,0.0,10750.0,0.0,10750.0,6364000.0,18275.0,F1,E1
+Operadores de Máquinas para la Elaboración y Ensamble de Productos de Plástico y Hule,1000,3746.16,6224.51,-2478.35,1.66,6224.51,6224510.0,10581.67,F,F1
+Operadores de Máquinas para el Tratamiento de Agua,900,4175.6,7000.0,-2824.4,1.68,7000.0,6300000.0,11900.0,F,F1
+Operadores de Máquinas y Equipos para la Refinación del Petróleo y Gas,538,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Operadores de Máquinas para la Elaboración de Productos de Madera, Bejuco, Mimbre y Similares",38,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Operadores de Máquinas en la Elaboración de Celulosa, Papel y Similares",201,26600.0,0.0,26600.0,0.0,26600.0,5346600.0,45220.0,D1,B1
+Operadores de Máquinas para la Elaboración de Productos a Base de Papel y Cartón,985,12512.89,12900.0,-387.11,1.03,12900.0,12706500.0,21930.0,E,D
+Operadores de Máquinas y Equipos de Hilar y Bobinar Fibras Textiles Naturales y Sintéticas,3590,3587.69,6670.92,-3083.23,1.86,6670.92,23948602.8,11340.56,F,F1
+"Operadores de Máquinas para Fabricar Tejidos de Punto, Telas y Alfombras",4910,2520.1,3084.59,-564.49,1.22,3084.59,15145336.9,5243.8,G,F
+"Operadores de Máquinas de Costura, Bordado y de Corte para la Confección de Productos Textiles y Prendas de Vestir",12232,5494.8,3887.31,1607.49,0.71,5494.8,67212393.60000001,9341.16,F,F1
+"Operadores de Máquinas en el Tratamiento del Cuero, Piel y la Elaboración de Calzado",397,4309.35,4000.0,309.35,0.93,4309.35,1710811.9500000002,7325.9,G,F
+"Operadores de Máquinas de Lavado, Blanqueo, Teñido, Estampado, Afelpado, Planchado y Acabado de Productos Textiles, Cuero, Piel y Similares",2085,5398.41,12000.0,-6601.59,2.22,12000.0,25020000.0,20400.0,E,D
+"Operadores de Máquinas en la Elaboración de Alimentos, Aceites, Grasas, Sal y Especias",494,10497.21,7841.27,2655.94,0.75,10497.21,5185621.739999999,17845.26,F1,E1
+Operadores de Máquinas en la Elaboración de Tabaco,46,0.0,6300.0,-6300.0,0.0,6300.0,289800.0,10710.0,F,F1
+Operadores de Máquinas en la Elaboración de Bebidas Alcohólicas y no Alcohólicas,743,0.0,1575.78,-1575.78,0.0,1575.78,1170804.54,2678.83,G,G
+"Operadores de Máquinas en la Elaboración de Cemento, Cal, Yeso y Productos de Cemento",445,10750.0,10426.77,323.23,0.97,10750.0,4783750.0,18275.0,F1,E1
+"Operadores de Máquinas en la Elaboración de Productos de Cerámica, Mosaico, Azulejo y Similares",235,7410.64,0.0,7410.64,0.0,7410.64,1741500.4000000001,12598.09,F,E
+Operadores de Máquinas e Instalaciones para la Generación de Energía,988,11435.04,14000.0,-2564.96,1.22,14000.0,13832000.0,23800.0,E,D
+"Supervisores en Procesos de Ensamblado y Montaje de Maquinaria, Herramientas y Productos Metálicos y Electrónicos",779,6400.72,6450.0,-49.28,1.01,6450.0,5024550.0,10965.0,F,F1
+"Ensambladores y Montadores de Herramientas, Maquinaria, Equipos y Productos Metálicos",592,7310.0,0.0,7310.0,0.0,7310.0,4327520.0,12427.0,F,E
+Ensambladores y Montadores de Partes Eléctricas y Electrónicas,770,6167.99,0.0,6167.99,0.0,6167.99,4749352.3,10485.58,F,F1
+Supervisores de Conductores de Transporte y de Maquinaria Móvil,1899,4201.5,661.52,3539.98,0.16,4201.5,7978648.5,7142.55,G,F
+"Conductores de Camiones, Camionetas y Automóviles de Carga",27587,11353.52,8376.35,2977.17,0.74,11353.52,313209556.24,19300.98,F1,E1
+"Conductores de Autobuses, Camiones, Camionetas, Taxis y Automóviles de Pasajeros",29276,8546.92,5502.01,3044.91,0.64,8546.92,250219629.92000002,14529.76,F1,E
+Choferes en Casas Particulares,1726,9466.23,3156.01,6310.22,0.33,9466.23,16338712.979999999,16092.59,F1,E1
+Conductores de Motocicleta,6050,3134.81,2980.72,154.09,0.95,3134.81,18965600.5,5329.18,G,F
+Conductores de Maquinaria Móvil para la Construcción y Minería,1854,10955.95,9599.46,1356.49,0.88,10955.95,20312331.3,18625.12,F1,E1
+"Conductores de Maquinaria Móvil para el Movimiento de Mercancías en Fábricas, Puertos, Comercios, Etcétera",5074,6442.8,6153.27,289.53,0.96,6442.8,32690767.2,10952.76,F,F1
+Trabajadores de Apoyo en Actividades Agrícolas,97711,3878.34,3541.37,336.97,0.91,3878.34,378956479.74,6593.18,G,F
+Trabajadores de Apoyo en Actividades Ganaderas,8791,2464.51,3686.57,-1222.06,1.5,3686.57,32408636.87,6267.17,G,F
+Trabajadores de Apoyo que Realizan Actividades Agrícolas y Ganaderas,1639,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Trabajadores de Apoyo en Actividades Silvícolas y Forestales,628,8600.0,1505.0,7095.0,0.17,8600.0,5400800.0,14620.0,F1,E
+Recolectores de Leña y Acarreadores de Agua,1286,1306.99,100.0,1206.99,0.08,1306.99,1680789.14,2221.88,G,G
+Trabajadores de Apoyo en la Extracción,538,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Trabajadores de Apoyo en la Construcción,73296,5794.12,4676.7,1117.42,0.81,5794.12,424685819.52,9850.0,F,F1
+Trabajadores de Apoyo en Plomería e Instalación de Tuberías,470,6882.53,5130.08,1752.45,0.75,6882.53,3234789.1,11700.3,F,F1
+"Trabajadores de Apoyo en la Elaboración, Reparación y Mantenimiento Mecánico de Equipos, Maquinaria y Productos de Metal y de Precisión",17871,5180.55,4544.75,635.8,0.88,5180.55,92581609.05,8806.94,F,F1
+"Trabajadores de Apoyo en la Industria Eléctrica, Electrónica y Comunicaciones",2323,6173.81,5347.29,826.52,0.87,6173.81,14341760.63,10495.48,F,F1
+"Trabajadores de Apoyo en la Industria Química, Petroquímica y Plásticos",2553,4428.34,7148.39,-2720.05,1.61,7148.39,18249839.67,12152.26,F,E
+"Trabajadores de Apoyo en la Industria de la Madera, Papel y Cartón",4601,4115.29,4781.87,-666.58,1.16,4781.87,22001383.87,8129.18,G,F1
+Trabajadores de Apoyo en la Industria Textil y del Zapato,12322,2662.56,4481.94,-1819.38,1.68,4481.94,55226464.67999999,7619.3,G,F
+"Trabajadores de Apoyo en la Industria de Alimentos, Bebidas y Productos de Tabaco",11712,2481.02,3005.57,-524.55,1.21,3005.57,35201235.84,5109.47,G,F
+"Trabajadores de Apoyo en la Industria de la Cerámica, Vidrio y Similares",4685,1256.5,3579.05,-2322.55,2.85,3579.05,16767849.25,6084.38,G,F
+"Trabajadores de Apoyo en la Industria, no Clasificados Anteriormente",85,11250.0,0.0,11250.0,0.0,11250.0,956250.0,19125.0,F1,E1
+Ayudantes de Conductores de Transporte Terrestre con Motor,419,6450.0,6800.0,-350.0,1.05,6800.0,2849200.0,11560.0,F,F1
+Cargadores,5327,3461.89,3238.29,223.6,0.94,3461.89,18441488.029999997,5885.21,G,F
+Ayudantes en la Preparación de Alimentos,21812,2520.63,2607.8,-87.17,1.03,2607.8,56881333.6,4433.26,G,G
+Vendedores Ambulantes de Periódicos y Lotería,964,3870.67,0.0,3870.67,0.0,3870.67,3731325.88,6580.14,G,F
+Vendedores Ambulantes de Artículos Diversos (Excluyendo los de Venta de Alimentos),17777,4422.94,3919.14,503.8,0.89,4422.94,78626604.38,7519.0,G,F
+Preparadores y Vendedores Ambulantes de Alimentos,19246,4581.26,2755.11,1826.15,0.6,4581.26,88170929.96000001,7788.14,G,F
+"Supervisores en Limpieza, Amas de Llaves, Mayordomos y en Estacionamientos",721,2996.28,3052.49,-56.21,1.02,3052.49,2200845.29,5189.23,G,F
+Trabajadores Domésticos,52259,4354.65,3671.08,683.57,0.84,4354.65,227569654.35,7402.9,G,F
+Barrenderos y Trabajadores de Limpieza (Excepto en Hoteles y Restaurantes),20339,4327.71,5831.67,-1503.96,1.35,5831.67,118610336.13,9913.84,F,F1
+Recamaristas y Camaristas,799,6357.1,7494.67,-1137.57,1.18,7494.67,5988241.33,12740.94,F,E
+Mozos de Hotel y Restaurante,1190,3972.24,876.16,3096.08,0.22,3972.24,4726965.6,6752.81,G,F
+Limpiadores de Calzado,771,7286.84,7190.66,96.18,0.99,7286.84,5618153.64,12387.63,F,E
+Lavadores de Vehículos en Establecimientos,2996,4244.77,3036.46,1208.31,0.72,4244.77,12717330.920000002,7216.11,G,F
+Cuidadores y Acomodadores de Autos en Estacionamientos,298,3095.13,6450.0,-3354.87,2.08,6450.0,1922100.0,10965.0,F,F1
+Lavanderos en Establecimientos,607,3784.48,5146.79,-1362.31,1.36,5146.79,3124101.53,8749.54,F,F1
+Planchadores y Tintoreros en Establecimientos,841,6020.0,5076.71,943.29,0.84,6020.0,5062820.0,10234.0,F,F1
+Lavanderos y Planchadores Domésticos,883,7834.77,949.45,6885.32,0.12,7834.77,6918101.91,13319.11,F,E
+Ayudantes de Jardineros,70,6300.0,0.0,6300.0,0.0,6300.0,441000.0,10710.0,F,F1
+Recolectores de Basura y Material Reciclable,4776,1833.33,4254.29,-2420.96,2.32,4254.29,20318489.04,7232.29,G,F
+"Trabajadores de Paquetería, Maleteros y Botones de Hotel",151,6079.8,70000.0,-63920.2,11.51,70000.0,10570000.0,119000.0,S,S
+Empacadores de Objetos y Mercancías,832,3504.09,7150.51,-3646.42,2.04,7150.51,5949224.32,12155.87,F,E
+"Trabajadores de Apoyo a la Realización de Espectáculos, Deportes y en Parques de Diversiones",3009,4044.39,0.0,4044.39,0.0,4044.39,12169569.51,6875.46,G,F
+Repartidores de Mensajería (A Pie y en Bicicleta) y Mandaderos,1773,4135.81,6499.33,-2363.52,1.57,6499.33,11523312.09,11048.86,F,F1
+Repartidores de Mercancías (A Pie y en Bicicleta),93,6450.0,0.0,6450.0,0.0,6450.0,599850.0,10965.0,F,F1
+Lecturistas de Medidores,522,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Ocupaciones no Especificadas,528,5000.0,0.0,5000.0,0.0,5000.0,2640000.0,8500.0,F,F1

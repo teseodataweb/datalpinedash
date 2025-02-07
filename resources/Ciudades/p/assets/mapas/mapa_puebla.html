@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Mapa 3D de la República Mexicana</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet" />
+    <style>
+        body { margin: 0; padding: 0; }
+        #map { position: absolute; top: 0; bottom: 0; width: 100%; }
+        .marker {
+            display: inline-block;
+            border-radius: 50%;
+            border: 2px solid white;
+        }
+        .popup-label {
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 5px;
+            border-radius: 3px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+        }
+    </style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+    // Token de acceso a Mapbox
+    mapboxgl.accessToken = 'pk.eyJ1IjoiYXVyZWxpc2ExIiwiYSI6ImNseGp6cDdldzI0Mmsya290cnU5Y2o2eHUifQ.IQdE_nDaYd5xS7Dz_AW2OA';
+
+    // Crear el mapa
+    const map = new mapboxgl.Map({
+        container: 'map', // Id del contenedor
+        style: 'mapbox://styles/mapbox/outdoors-v11', // Estilo del mapa con agua azul
+        center: [-102.5528, 23.6345], // Centro del mapa [longitud, latitud]
+        zoom: 5, // Nivel de zoom
+        pitch: 45, // Ángulo de inclinación para 3D
+        bearing: 0, // Rotación del mapa
+        antialias: true // Mejora la calidad de renderizado
+    });
+
+    // Añadir control de navegación (zoom, rotación)
+    map.addControl(new mapboxgl.NavigationControl());
+
+    // Añadir control de escala
+    map.addControl(new mapboxgl.ScaleControl());
+
+    // Añadir una capa de terreno para el relieve 3D
+    map.on('load', () => {
+        map.addSource('mapbox-dem', {
+            'type': 'raster-dem',
+            'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
+            'tileSize': 512,
+            'maxzoom': 14
+        });
+        map.setTerrain({ 'source': 'mapbox-dem', 'exaggeration': 1.5 });
+
+        // Añadir capas de sombra para mejorar la percepción de la elevación
+        map.addLayer({
+            'id': 'hillshading',
+            'source': 'mapbox-dem',
+            'type': 'hillshade',
+            'paint': {
+                'hillshade-exaggeration': 0.5
+            }
+        });
+
+        // Datos de las regiones
+        const data = [
+            {"name": "Ciudad de México", "lat": 19.4326, "lon": -99.1332, "percent": 40, "color": "#2962ff"},
+            {"name": "Estado de México", "lat": 19.3587, "lon": -99.5388, "percent": 32, "color": "#9500ff"},
+            {"name": "Zacatecas", "lat": 22.7709, "lon": -102.5833, "percent": 8, "color": "#ff0059"},
+            {"name": "Morelos", "lat": 18.6813, "lon": -99.1013, "percent": 4, "color": "#ff8c00"},
+            {"name": "Querétaro", "lat": 20.5888, "lon": -100.3899, "percent": 16, "color": "#b4e600"}
+        ];
+
+        // Añadir marcadores y etiquetas al mapa
+        data.forEach(function(location) {
+            // Añadir un marcador
+            const el = document.createElement('div');
+            el.className = 'marker';
+            el.style.backgroundColor = location.color;
+            el.style.width = (location.percent * 3) + 'px'; // Aumentar el tamaño del círculo
+            el.style.height = (location.percent * 3) + 'px'; // Aumentar el tamaño del círculo
+
+            const marker = new mapboxgl.Marker(el)
+                .setLngLat([location.lon, location.lat])
+                .addTo(map);
+
+            // Añadir una etiqueta que aparezca al hacer hover
+            const popup = new mapboxgl.Popup({ closeButton: false, closeOnClick: false })
+                .setHTML(`<div class="popup-label"><strong>${location.name}</strong><br>${location.percent}%</div>`);
+
+            el.addEventListener('mouseenter', () => popup.setLngLat(marker.getLngLat()).addTo(map));
+            el.addEventListener('mouseleave', () => popup.remove());
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ad0cc4fa64dad4575b7a1fd908a5e2a0 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ad0cc4fa64dad4575b7a1fd908a5e2a0" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ad0cc4fa64dad4575b7a1fd908a5e2a0 = L.map(
+                "map_ad0cc4fa64dad4575b7a1fd908a5e2a0",
+                {
+                    center: [21.73157311440543, -103.41011072567072],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5.4,
+                    zoomControl: true,
+                    preferCanvas: false,
+                    language: "es",
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e5b0545aad8dc145f08a9b11e71dbdd6 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 20, "maxZoom": 20, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abcd", "tms": false}
+            );
+        
+    
+            tile_layer_e5b0545aad8dc145f08a9b11e71dbdd6.addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+            var circle_marker_4d287aae0f175b04e525318051cc7474 = L.circleMarker(
+                [25.923835315622, -112.050452054979],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11, "stroke": true, "weight": 3}
+            ).addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+        var popup_c487d83100be2d8a6b10e0de7784cb14 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_14ba35b59ccc8f5f4288908e2666eec1 = $(`<div id="html_14ba35b59ccc8f5f4288908e2666eec1" style="width: 100.0%; height: 100.0%;">Baja california Sur: 0.44%</div>`)[0];
+                popup_c487d83100be2d8a6b10e0de7784cb14.setContent(html_14ba35b59ccc8f5f4288908e2666eec1);
+            
+        
+
+        circle_marker_4d287aae0f175b04e525318051cc7474.bindPopup(popup_c487d83100be2d8a6b10e0de7784cb14)
+        ;
+
+        
+    
+    
+            var circle_marker_62f08a34ba6fb491652297d2979afff5 = L.circleMarker(
+                [21.802060111765, -104.855408283338],
+                {"bubblingMouseEvents": true, "color": "#cdd500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#cdd500", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11, "stroke": true, "weight": 3}
+            ).addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+        var popup_38288d78556c907ec10d12875eef6ba4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d4cd7426827544b72cfa46c872c24929 = $(`<div id="html_d4cd7426827544b72cfa46c872c24929" style="width: 100.0%; height: 100.0%;">Nayarit: 44.25%</div>`)[0];
+                popup_38288d78556c907ec10d12875eef6ba4.setContent(html_d4cd7426827544b72cfa46c872c24929);
+            
+        
+
+        circle_marker_62f08a34ba6fb491652297d2979afff5.bindPopup(popup_38288d78556c907ec10d12875eef6ba4)
+        ;
+
+        
+    
+    
+            var circle_marker_bee20963b00ee7a85810140a606d2977 = L.circleMarker(
+                [20.580771673451, -103.613171941378],
+                {"bubblingMouseEvents": true, "color": "#cdd500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#cdd500", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11, "stroke": true, "weight": 3}
+            ).addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+        var popup_f2c7433fd3acc653ac61ff17598b8e87 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_987d523055f34f0b24b2e553a1b590d1 = $(`<div id="html_987d523055f34f0b24b2e553a1b590d1" style="width: 100.0%; height: 100.0%;">Jalisco: 45.35%</div>`)[0];
+                popup_f2c7433fd3acc653ac61ff17598b8e87.setContent(html_987d523055f34f0b24b2e553a1b590d1);
+            
+        
+
+        circle_marker_bee20963b00ee7a85810140a606d2977.bindPopup(popup_f2c7433fd3acc653ac61ff17598b8e87)
+        ;
+
+        
+    
+    
+            var circle_marker_35cee5c09ef5b566cf12fac80f70e5d4 = L.circleMarker(
+                [22.7710988, -102.5737277],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11, "stroke": true, "weight": 3}
+            ).addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+        var popup_0d19bbc9210275856a4a189512e2f850 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bcb3f5dbf289b71412d6f444d8c12b71 = $(`<div id="html_bcb3f5dbf289b71412d6f444d8c12b71" style="width: 100.0%; height: 100.0%;">Zacatecas: 1.33%</div>`)[0];
+                popup_0d19bbc9210275856a4a189512e2f850.setContent(html_bcb3f5dbf289b71412d6f444d8c12b71);
+            
+        
+
+        circle_marker_35cee5c09ef5b566cf12fac80f70e5d4.bindPopup(popup_0d19bbc9210275856a4a189512e2f850)
+        ;
+
+        
+    
+    
+            var circle_marker_cf75651d8d195a52b4aa740cc57592d2 = L.circleMarker(
+                [21.016098, -101.253621],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11, "stroke": true, "weight": 3}
+            ).addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+        var popup_4be4f80e509e93c760f1080e91f009b6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5023c7b9e3e99d7b8964c3b9d931a36c = $(`<div id="html_5023c7b9e3e99d7b8964c3b9d931a36c" style="width: 100.0%; height: 100.0%;">Guanajuato: 0.33%</div>`)[0];
+                popup_4be4f80e509e93c760f1080e91f009b6.setContent(html_5023c7b9e3e99d7b8964c3b9d931a36c);
+            
+        
+
+        circle_marker_cf75651d8d195a52b4aa740cc57592d2.bindPopup(popup_4be4f80e509e93c760f1080e91f009b6)
+        ;
+
+        
+    
+    
+            var circle_marker_4177ea0295bb6b2da9d2f2faae24f685 = L.circleMarker(
+                [20.5944706, -100.3901829],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11, "stroke": true, "weight": 3}
+            ).addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+        var popup_48912a9010d37e4719b8de0840186726 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_80d8dff146daf2fed563a7bfe8fcfa90 = $(`<div id="html_80d8dff146daf2fed563a7bfe8fcfa90" style="width: 100.0%; height: 100.0%;">Querétaro: 0.33%</div>`)[0];
+                popup_48912a9010d37e4719b8de0840186726.setContent(html_80d8dff146daf2fed563a7bfe8fcfa90);
+            
+        
+
+        circle_marker_4177ea0295bb6b2da9d2f2faae24f685.bindPopup(popup_48912a9010d37e4719b8de0840186726)
+        ;
+
+        
+    
+    
+            var circle_marker_556549c0e38699cdd7e3642300626c00 = L.circleMarker(
+                [19.4326773, -99.1342112],
+                {"bubblingMouseEvents": true, "color": "#cdd500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#cdd500", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 11, "stroke": true, "weight": 3}
+            ).addTo(map_ad0cc4fa64dad4575b7a1fd908a5e2a0);
+        
+    
+        var popup_d8d77830bf7b498b2f09814e87cf6dde = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_799b8c22b60de2c91466480da0c8015f = $(`<div id="html_799b8c22b60de2c91466480da0c8015f" style="width: 100.0%; height: 100.0%;">CDMX: 7.96%</div>`)[0];
+                popup_d8d77830bf7b498b2f09814e87cf6dde.setContent(html_799b8c22b60de2c91466480da0c8015f);
+            
+        
+
+        circle_marker_556549c0e38699cdd7e3642300626c00.bindPopup(popup_d8d77830bf7b498b2f09814e87cf6dde)
+        ;
+
+        
+    
+</script>
+</html>

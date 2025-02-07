@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a3173578fa1263e986459c6d93311524 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a3173578fa1263e986459c6d93311524" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a3173578fa1263e986459c6d93311524 = L.map(
+                "map_a3173578fa1263e986459c6d93311524",
+                {
+                    center: [20.40436660539322, -100.855227809296],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 6,
+                    zoomControl: true,
+                    preferCanvas: false,
+                    language: "es",
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_96ff94fdf450151fbc66d71b7dd78c36 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e", "detectRetina": false, "maxNativeZoom": 20, "maxZoom": 20, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abcd", "tms": false}
+            );
+        
+    
+            tile_layer_96ff94fdf450151fbc66d71b7dd78c36.addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+            var circle_marker_6f90007408268d1ca1c273e2c143d301 = L.circleMarker(
+                [20.580771709139, -103.613171941696],
+                {"bubblingMouseEvents": true, "color": "#cdd500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#cdd500", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 27.65, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_9839c48ca09c4a4034dcf2e2608d511b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_048aae55e6569ed1f987454d92de2fd7 = $(`<div id="html_048aae55e6569ed1f987454d92de2fd7" style="width: 100.0%; height: 100.0%;">Jalisco</div>`)[0];
+                popup_9839c48ca09c4a4034dcf2e2608d511b.setContent(html_048aae55e6569ed1f987454d92de2fd7);
+            
+        
+
+        circle_marker_6f90007408268d1ca1c273e2c143d301.bindPopup(popup_9839c48ca09c4a4034dcf2e2608d511b)
+        ;
+
+        
+    
+    
+            var circle_marker_b3575237b6fb50c5079220131c0766d2 = L.circleMarker(
+                [19.355993623414, -99.645394399271],
+                {"bubblingMouseEvents": true, "color": "#cdd500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#cdd500", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 22.050000000000004, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_30f1ffdef98eeed24bf7dcc7a9965c98 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_574d9d47b2ee2bb5737feb5967cee533 = $(`<div id="html_574d9d47b2ee2bb5737feb5967cee533" style="width: 100.0%; height: 100.0%;">Estado de México</div>`)[0];
+                popup_30f1ffdef98eeed24bf7dcc7a9965c98.setContent(html_574d9d47b2ee2bb5737feb5967cee533);
+            
+        
+
+        circle_marker_b3575237b6fb50c5079220131c0766d2.bindPopup(popup_30f1ffdef98eeed24bf7dcc7a9965c98)
+        ;
+
+        
+    
+    
+            var circle_marker_1ac271ba6c5408fc01520bc602d70404 = L.circleMarker(
+                [19.03793, -98.20346],
+                {"bubblingMouseEvents": true, "color": "#cdd500", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#cdd500", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25.900000000000002, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_ab31bfe5554f19f6ab0ba0ac8ff890cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e3a417cd8e782fdc5b9f6fe02ad35744 = $(`<div id="html_e3a417cd8e782fdc5b9f6fe02ad35744" style="width: 100.0%; height: 100.0%;">Puebla</div>`)[0];
+                popup_ab31bfe5554f19f6ab0ba0ac8ff890cd.setContent(html_e3a417cd8e782fdc5b9f6fe02ad35744);
+            
+        
+
+        circle_marker_1ac271ba6c5408fc01520bc602d70404.bindPopup(popup_ab31bfe5554f19f6ab0ba0ac8ff890cd)
+        ;
+
+        
+    
+    
+            var circle_marker_3271946c71f68c16f0a5fb7f04f3cbc5 = L.circleMarker(
+                [17.668072797972, -99.921684019876],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.599999999999998, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_cded5d2e4778a0d405f8a204d518e9f7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_510186fe29f2c50a1197e6ee62bfd760 = $(`<div id="html_510186fe29f2c50a1197e6ee62bfd760" style="width: 100.0%; height: 100.0%;">Guerrero</div>`)[0];
+                popup_cded5d2e4778a0d405f8a204d518e9f7.setContent(html_510186fe29f2c50a1197e6ee62bfd760);
+            
+        
+
+        circle_marker_3271946c71f68c16f0a5fb7f04f3cbc5.bindPopup(popup_cded5d2e4778a0d405f8a204d518e9f7)
+        ;
+
+        
+    
+    
+            var circle_marker_6e68e3234552e45f44dd4ae3939267c6 = L.circleMarker(
+                [24.997102650291, -107.480258679148],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.950000000000003, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_e704091c00c80c1dca08ff4b93c3f242 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_da437dd2289db959f307fcf5649ce058 = $(`<div id="html_da437dd2289db959f307fcf5649ce058" style="width: 100.0%; height: 100.0%;">Sinaloa</div>`)[0];
+                popup_e704091c00c80c1dca08ff4b93c3f242.setContent(html_da437dd2289db959f307fcf5649ce058);
+            
+        
+
+        circle_marker_6e68e3234552e45f44dd4ae3939267c6.bindPopup(popup_e704091c00c80c1dca08ff4b93c3f242)
+        ;
+
+        
+    
+    
+            var circle_marker_1e53c2c2b46162a9b85fc98fc99e8db3 = L.circleMarker(
+                [19.4326773, -99.1342112],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.95, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_f3c2a01f297c380eea566d8743224b6a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b56de732ad51a92faf77bc03bcabbebc = $(`<div id="html_b56de732ad51a92faf77bc03bcabbebc" style="width: 100.0%; height: 100.0%;">Ciudad de México</div>`)[0];
+                popup_f3c2a01f297c380eea566d8743224b6a.setContent(html_b56de732ad51a92faf77bc03bcabbebc);
+            
+        
+
+        circle_marker_1e53c2c2b46162a9b85fc98fc99e8db3.bindPopup(popup_f3c2a01f297c380eea566d8743224b6a)
+        ;
+
+        
+    
+    
+            var circle_marker_967185cb036d2a7eb8b7f17d6ab14c1e = L.circleMarker(
+                [19.3160944, -98.2380797],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.85, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_f1ce32148656fc30bf9c61bd2c7d1f0c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ec78673537ed3dfd18f957294236de46 = $(`<div id="html_ec78673537ed3dfd18f957294236de46" style="width: 100.0%; height: 100.0%;">Tlaxcala</div>`)[0];
+                popup_f1ce32148656fc30bf9c61bd2c7d1f0c.setContent(html_ec78673537ed3dfd18f957294236de46);
+            
+        
+
+        circle_marker_967185cb036d2a7eb8b7f17d6ab14c1e.bindPopup(popup_f1ce32148656fc30bf9c61bd2c7d1f0c)
+        ;
+
+        
+    
+    
+            var circle_marker_c4ed055bada4ecd23b3cda4b28c8dc29 = L.circleMarker(
+                [22.7710988, -102.5737277],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 20.300000000000004, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_cf4597146649199c4b06b4589634aea0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ade8d58ab5df4781cdc93664cfc26aa5 = $(`<div id="html_ade8d58ab5df4781cdc93664cfc26aa5" style="width: 100.0%; height: 100.0%;">Zacatecas</div>`)[0];
+                popup_cf4597146649199c4b06b4589634aea0.setContent(html_ade8d58ab5df4781cdc93664cfc26aa5);
+            
+        
+
+        circle_marker_c4ed055bada4ecd23b3cda4b28c8dc29.bindPopup(popup_cf4597146649199c4b06b4589634aea0)
+        ;
+
+        
+    
+    
+            var circle_marker_3b7630def6d491bece240fa8d0d0652a = L.circleMarker(
+                [20.479558167723, -98.887062643673],
+                {"bubblingMouseEvents": true, "color": "#2931f5", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#2931f5", "fillOpacity": 0.6, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 19.950000000000003, "stroke": true, "weight": 3}
+            ).addTo(map_a3173578fa1263e986459c6d93311524);
+        
+    
+        var popup_c5f294ce9bea953b49823f4ac16382e7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a4cf1a78c2d60c2846ef22f029bb01dd = $(`<div id="html_a4cf1a78c2d60c2846ef22f029bb01dd" style="width: 100.0%; height: 100.0%;">Hidalgo</div>`)[0];
+                popup_c5f294ce9bea953b49823f4ac16382e7.setContent(html_a4cf1a78c2d60c2846ef22f029bb01dd);
+            
+        
+
+        circle_marker_3b7630def6d491bece240fa8d0d0652a.bindPopup(popup_c5f294ce9bea953b49823f4ac16382e7)
+        ;
+
+        
+    
+</script>
+</html>

@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "Age Range": "0 a 4 años",
+        "Hombre": 11680,
+        "Mujer": 11518,
+        "Total": 23198
+    },
+    {
+        "id": 2,
+        "Age Range": "10 a 14 años",
+        "Hombre": 12592,
+        "Mujer": 12231,
+        "Total": 24823
+    },
+    {
+        "id": 3,
+        "Age Range": "15 a 19 años",
+        "Hombre": 12248,
+        "Mujer": 11982,
+        "Total": 24230
+    },
+    {
+        "id": 4,
+        "Age Range": "20 a 24 años",
+        "Hombre": 13436,
+        "Mujer": 13143,
+        "Total": 26579
+    },
+    {
+        "id": 5,
+        "Age Range": "25 a 29 años",
+        "Hombre": 13145,
+        "Mujer": 12987,
+        "Total": 26132
+    },
+    {
+        "id": 6,
+        "Age Range": "30 a 34 años",
+        "Hombre": 12274,
+        "Mujer": 12243,
+        "Total": 24517
+    },
+    {
+        "id": 7,
+        "Age Range": "35 a 39 años",
+        "Hombre": 11317,
+        "Mujer": 11002,
+        "Total": 22319
+    },
+    {
+        "id": 8,
+        "Age Range": "40 a 44 años",
+        "Hombre": 9928,
+        "Mujer": 9934,
+        "Total": 19862
+    },
+    {
+        "id": 9,
+        "Age Range": "45 a 49 años",
+        "Hombre": 9258,
+        "Mujer": 9363,
+        "Total": 18621
+    },
+    {
+        "id": 10,
+        "Age Range": "5 a 9 años",
+        "Hombre": 12298,
+        "Mujer": 11751,
+        "Total": 24049
+    },
+    {
+        "id": 11,
+        "Age Range": "50 a 54 años",
+        "Hombre": 8062,
+        "Mujer": 8434,
+        "Total": 16496
+    },
+    {
+        "id": 12,
+        "Age Range": "55 a 59 años",
+        "Hombre": 6170,
+        "Mujer": 6372,
+        "Total": 12542
+    },
+    {
+        "id": 13,
+        "Age Range": "60 a 64 años",
+        "Hombre": 4882,
+        "Mujer": 5164,
+        "Total": 10046
+    },
+    {
+        "id": 14,
+        "Age Range": "65 a 69 años",
+        "Hombre": 3592,
+        "Mujer": 3624,
+        "Total": 7216
+    },
+    {
+        "id": 15,
+        "Age Range": "70 a 74 años",
+        "Hombre": 2362,
+        "Mujer": 2484,
+        "Total": 4846
+    },
+    {
+        "id": 16,
+        "Age Range": "75 a 79 años",
+        "Hombre": 1437,
+        "Mujer": 1540,
+        "Total": 2977
+    },
+    {
+        "id": 17,
+        "Age Range": "80 a 84 años",
+        "Hombre": 859,
+        "Mujer": 957,
+        "Total": 1816
+    },
+    {
+        "id": 18,
+        "Age Range": "85 años o más",
+        "Hombre": 609,
+        "Mujer": 883,
+        "Total": 1492
+    }
+]
